@@ -7,7 +7,7 @@ A PowerShell log collector for Intune Win32 (IME) app deployment troubleshooting
 Run as **Administrator** on the target device:
 
 ```powershell
-irm https://raw.githubusercontent.com/n1ghtmarauder/Collect-Win32Logs/main/Collect-Win32Logs.ps1 | iex
+irm https://raw.githubusercontent.com/1nFlight/Collect-Win32Logs/main/Collect-Win32Logs.ps1 | iex
 ```
 
 Or download and run locally:
